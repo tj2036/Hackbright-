@@ -15,6 +15,7 @@ print user_input
 
 
 def find_list(list):
-    find in shopping_list(lists)
-    if lists in shopping_list:
+    def find_list(user_list):
+    return shopping_list[user_list]
+print find_list("Target")
         
