@@ -13,9 +13,7 @@ print user_input
 #     if user_input = 1:
 #         print shopping_list
 
-
-def find_list(list):
-    def find_list(user_list):
+def find_list(user_list):
     return shopping_list[user_list]
 print find_list("Target")
         
