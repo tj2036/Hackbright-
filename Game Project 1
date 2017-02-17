@@ -1,2 +1,25 @@
-"""This is the number guessing game"""
+""" Guessing Number Game"""
 
+import random 
+
+
+print ("Guess a number between 1 and 50")
+
+def game():
+ 	guess_num = random.randint(1,50)
+
+ 	while(True):
+ 		guess = user_input = int("Please enter a number. Guess: ")
+ 	 
+ 	if guess < guess_num:
+ 		print ("Your guess is too low")
+	
+	elif guess > guess_num:
+		 print ("Your guess is too high :(")
+
+	else guess != guess_num:
+ 		 print ("You got it!")
+ 		
+ 		break 		
+
+#I have not been able to test it out as i keep getting syntax error on line 20 and have been trying to work it out on my own. 
