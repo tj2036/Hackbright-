@@ -1,0 +1,63 @@
+<! DOCTYPE html>
+<html>
+<head>
+    <title> Pizza </title>
+</head>
+<body>
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/59/8c/3c/598c3cf34b823c461ac5455f43cc5304.jpg" 
+    alt = "cat eating pizza">
+    <h1> Pizza</h1>
+<a name="top"></a>
+    <p>Pizza  (piz·zaˈpētsə) noun <br>
+a dish of Italian origin consisting of a flat, round base of dough baked with a topping of tomato sauce and cheese, typically with added meat or vegetables. </p>
+
+    <a href = "https://en.wikipedia.org/wiki/Pizza" target = "blank"> Wikipedia </a> 
+
+    <h2> Pizza Information </h2>  
+    <p> <em>Pizza is a yeasted flatbread generally topped with tomato sauce and cheese and baked in an oven. It is commonly topped with a selection of meats, vegetables and condiments. The term was first recorded in the 10th century, in a Latin manuscript from Gaeta in Central Italy. The modern pizza was invented in Naples, Italy, and the dish and its variants have since become popular and common in many areas of the world.</em></p>
+
+    <a href= "https://www.buzzfeed.com/donnad/6-animals-eating-pizza"><img src=https://s-media-cache-ak0.pinimg.com/236x/1b/c2/a1/1bc2a135d922d7fc3553fdb933b32437.jpg alt = "bulldog in a swing eating pizza"></a><br>
+
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/gmWhaIKDr8I" frameborder="0" allowfullscreen></iframe></p>
+    
+    <ul> 
+        <li> Cheese</li>
+        <li> Pepperonni </li>
+        <li> <a href = "https://youtu.be/FNf-IGmxElI">Veggie </a></li>
+        <li> Deep Dish </li>
+    </ul>
+
+   <h2> Order Pizza for your pet!! </h2> 
+    <table> 
+        <thead>
+        <tr>
+            <th> Item </th> 
+            <th> Price </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Cheese </td>
+            <td> $12 </td>
+        </tr>
+        <tr>
+            <td> Pupperoni </td>
+            <td> $18 </td>
+        </tr>
+        <tr>
+            <td>Veggie</td>
+            <td>$20</td>
+        </tr>
+        <tr>
+            <td> Deep Dish </td>
+            <td> $600 - direct from Chicago </td>
+        </tr>
+    </tbody>
+</table>
+
+     
+<a href="#top">Back to top of page</a>
+  
+
+</body>
+</html>
